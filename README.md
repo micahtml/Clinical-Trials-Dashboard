@@ -67,3 +67,7 @@ This project showcases:
 - Capability to create lightweight, deployable dashboards
 
 Perfect for portfolio demonstration in **Data Analyst** or **Healthcare Analytics** roles.
+
+## 📧 Contact
+
+Built by [Micah Thornton](https://www.linkedin.com/in/micah-thornton-791a54226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNBqnyarCSh2ahMBH7yIsZQ%3D%3D)
